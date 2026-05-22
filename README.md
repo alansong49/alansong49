@@ -1,16 +1,22 @@
-## Hi there 
+# 👋 你好，我是 JockerSilas
 
-<!--
-**alansong49/alansong49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 一名来自珠海，正在用代码和镜头记录世界的高中生。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 关于我
+- 🌴 坐标：珠海
+- 💻 爱好：编程、摄影、羽毛球
+- 🛠️ 目前在做：简单的开发小项目，正在一点点打磨技术
+- 📈 目标：持续学习，慢慢成长，希望做出更多有意思的东西
+
+---
+
+## 💡 我的状态
+我算不上技术大佬，很多地方还在慢慢摸索，但一直保持着踏实和热情。
+喜欢用代码实现想法，用镜头定格瞬间，也爱用羽毛球挥洒汗水。
+希望在这里能认识更多同好，一起交流、一起进步，也欢迎大家多多指教和鼓励！
+
+---
+
+✨ 如果你也对编程/摄影/羽毛球感兴趣，欢迎随时和我交流！
